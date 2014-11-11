@@ -5,7 +5,7 @@ Autores: Erick de Mata
 Universidad del Valle de Guatemala
 Algoritmos y estructura de datos Lab 9
  */
-package hoja9;
+package hdt9;
 
 /**
  *

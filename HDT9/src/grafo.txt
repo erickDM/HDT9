@@ -1,0 +1,9 @@
+Jutiapa Escuintla Izabal Quetzaltenango Coban Guatemala Solola
+
+Jutiapa Escuintla 15.0
+Izabal Quetzaltenango 20.0
+Jutiapa Coban 10.0
+Coban Guatemala 30.0
+Guatemala Solola 45.0
+Escuintla Guatemala 25.0
+Guatemala Jutiapa 50.0
