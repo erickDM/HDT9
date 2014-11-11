@@ -5,7 +5,6 @@ Autores: Erick de Mata
 Universidad del Valle de Guatemala
 Algoritmos y estructura de datos Lab 9
  */
-
 package hdt9;
 import java.io.*;
 import javax.swing.JOptionPane;
